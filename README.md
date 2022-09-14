@@ -4,4 +4,5 @@
 The code and data are coming soon.
 # Framework
 ![image](pipline.png)
-
+# Compare
+![image](compared.pdf)
