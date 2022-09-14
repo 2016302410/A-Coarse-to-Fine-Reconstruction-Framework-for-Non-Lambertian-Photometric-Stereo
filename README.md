@@ -6,3 +6,5 @@ The code and data are coming soon.
 ![image](pipline.png)
 # Compare
 ![image](compared.png)
+# Result
+![image](result.png)
